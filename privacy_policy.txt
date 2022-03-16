@@ -1,0 +1,2 @@
+SyncFit will only obtain and use customer data for the intended purposes of syncing workout data across fitness platforms.
+We will never share customer data with third parties.
